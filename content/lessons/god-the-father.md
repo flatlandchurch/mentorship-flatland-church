@@ -2,6 +2,7 @@
 order: 0
 lesson: "Lesson 1"
 title: "God the Father"
+image: "/god-the-father.jpg"
 ---
 
 Begin this lesson by first reading the Apostle's Creed. See Resources section for text.

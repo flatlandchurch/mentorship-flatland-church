@@ -3,5 +3,33 @@ Flatland Mentorship Program
 {{ end }}
 
 {{ define "main" }}
+    {{ $lessons := where .Site.RegularPages "Section" "lessons" }}
+    <div class="grid">
+    {{ range sort $lessons "Params.order" "asc" }}
+        <a href="{{ .Permalink }}" aria-label="{{ .Title }}">
+            <div class="item">
+                <div class="item__icon">
+                    <img data-src="{{ .Params.Image }}" alt="{{ .Title }}" />
+                    <div class="cross"></div>
+                </div>
+                <h2>{{ add .Params.Order 1 }}. {{ .Title }}</h2>
+            </div>
+        </a>
+    {{ end }}
+    </div>
 
+<script>
+    !function() {
+      document.querySelectorAll('img[data-src]').forEach((el) => {
+        const imgSrc = el.dataset.src;
+        if (imgSrc) {
+          const img = new Image();
+          img.addEventListener('load', () => {
+            el.src = img.src;
+          });
+          img.src = imgSrc;
+        }
+      });
+    }()
+</script>
 {{ end }}

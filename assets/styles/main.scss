@@ -51,7 +51,7 @@ article {
     height: 2px;
     display: block;
     content: "";
-    top: 6px;
+    top: 5px;
     position: absolute;
   }
 
@@ -70,5 +70,101 @@ footer {
     color: #d40005;
     font-weight: bold;
     text-decoration: none;
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  max-width: 960px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 24px 24px 48px;
+  margin: 0 auto;
+
+  a {
+    text-decoration: none;
+  }
+
+  @media screen and (max-width: 768px) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  @media screen and (max-width: 576px) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.item {
+  width: 100%;
+  text-align: center;
+
+  h2 {
+    font-size: 18px;
+    color: #d40005;
+  }
+}
+
+.item__icon {
+  display: block;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  border: 4px solid #d40005;
+  margin: 0 auto 12px;
+
+  @media screen and (max-width: 576px) {
+    width: 80px;
+    height: 80px;
+  }
+
+  img {
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+    transition: opacity 0.7s ease-in;
+  }
+
+  img:not([src]) {
+    opacity: 0;
+  }
+
+  .cross {
+    position: absolute;
+    margin: 0;
+    top: calc(50% - 6px);
+    left: calc(50% - 6px);
+    opacity: 1;
+    transition: opacity 0.5s ease-out;
+    animation-name: cross-spin;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    transform-origin: center;
+  }
+
+  img[src] {
+    opacity: 1;
+  }
+
+  img[src] ~ .cross {
+    opacity: 0;
+  }
+}
+
+@keyframes cross-spin {
+  0% {
+    transform: rotate(0);
+  }
+
+  100% {
+    transform: rotate(360deg);
   }
 }
