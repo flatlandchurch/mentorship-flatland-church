@@ -7,6 +7,33 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 }
 
+body > header {
+  padding: 24px;
+  box-sizing: border-box;
+  max-width: 640px;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  p {
+    font-size: 18px;
+  }
+}
+
+.btn {
+  padding: 4px 8px;
+  background: #d40005;
+  appearance: none;
+  display: block;
+  width: max-content;
+  border-radius: 6px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
 article {
   width: 100%;
   margin: 0 auto;
