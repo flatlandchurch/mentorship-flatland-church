@@ -3,6 +3,12 @@ order: 0
 lesson: "Lesson 1"
 title: "God the Father"
 image: "/god-the-father.jpg"
+resources:
+    videos:
+        - title: "BibleProject - God"
+          uri: "https://www.youtube.com/watch?v=eAvYmE2YYIU"
+        - title: "BibleProject - Character of God"
+          uri: "https://www.youtube.com/watch?v=nxwzq1PJImM"
 ---
 
 Begin this lesson by first reading the Apostle's Creed. See Resources section for text.
@@ -11,7 +17,7 @@ Begin this lesson by first reading the Apostle's Creed. See Resources section fo
 
 God the Father is the first person of the Trinity, from whom the Son is eternally begotten and from whom the Holy Spirit eternally proceeds.
 
-([Psalm 104](https://www.biblegateway.com/passage/?search=Psalm%20104&version=NIV); [Deuteronomy 6:4-5](); [John 1:1, 14;](); [1 Corinthians 2:10-16]())
+([Psalm 104](https://www.biblegateway.com/passage/?search=Psalm%20104&version=NIV); [Deuteronomy 6:4-5](); [John 1:1, 14](); [1 Corinthians 2:10-16]())
 
 ## Why do you call the First Person of the Holy Trinity "Father"?
 

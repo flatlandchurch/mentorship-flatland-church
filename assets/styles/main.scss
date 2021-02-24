@@ -63,6 +63,13 @@ article {
     font-weight: 700;
     color: #d40005;
   }
+
+  a {
+    color: #d40005;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+  }
 }
 
 .cross {
@@ -194,4 +201,79 @@ footer {
   100% {
     transform: rotate(360deg);
   }
+}
+
+article section.resources {
+  border-top: 1px solid #ccc;
+  margin-top: 68px;
+
+  h2 {
+    font-size: 28px;
+    margin-top: 24px;
+  }
+
+  a {
+    font-size: 20px;
+  }
+
+  ul {
+    list-style: none;
+    box-sizing: border-box;
+    padding-left: 8px;
+  }
+
+  li {
+    display: grid;
+    grid-template-columns: minmax(0, max-content) minmax(0, 1fr);
+    grid-gap: 8px;
+    align-items: center;
+    margin-bottom: 12px;
+
+    i {
+      font-size: 20px;
+    }
+
+    span {
+      font-size: 18px;
+    }
+  }
+}
+
+.program-resources {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 640px;
+  box-sizing: border-box;
+  padding: 24px 24px 48px;
+
+  a {
+    font-size: 20px;
+    color: #d40005;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  ul {
+    list-style: none;
+    margin-top: 24px;
+  }
+
+  li {
+    margin-bottom: 12px;
+  }
+}
+
+.prayer span {
+  display: block;
+  margin-left: 24px;
+  text-indent: -24px;
+}
+
+.prayer.paragraph span {
+  margin-bottom: 24px;
+}
+
+.prayer span.indent {
+  margin-left: 24px;
+  text-indent: 0;
 }

@@ -5,5 +5,21 @@
         <h1>{{ .Title }}</h1>
     </header>
     {{ .Content }}
+    {{ with .Params.Resources }}
+    <section class="resources">
+        <h2>Resources</h2>
+        <ul>
+            {{ range $key, $value := . }}
+                {{ range $value }}
+                {{ $icon := "" }}
+                {{ if eq $key "videos" }}{{ $icon = "fab fa-youtube" }}{{ end }}
+                {{ if eq $key "books" }}{{ $icon = "fas fa-book" }}{{ end }}
+                {{ if eq $key "podcasts" }}{{ $icon = "fas fa-microphone-alt" }}{{ end }}
+                <li><i class="{{ $icon }}"></i> <div><a href="{{ .uri }}">{{ .title }}</a>{{ with .annotation }} <span>{{ . }}</span>{{ end }}</div></li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </section>
+    {{ end }}
 </article>
 {{ end }}
