@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="{{ $.Site.LanguageCode }}">
+    <head>
+        {{hugo.Generator}}
+        <title>{{ block "title" . }} {{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }} {{ end }}</title>
+        {{ $style := resources.Get "styles/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+        <link rel="stylesheet" href="{{ $style.Permalink }}">
+        <link rel="canonical" href={{ .Permalink }} />
+        <meta name="author" content="Flatland Church">
+        <meta property="fb:app_id" content="1007632336053609" />
+        <meta name="twitter:site" content="@flatlandchurch" />
+        <meta charset="utf-8">
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    </head>
+    <body>
+        {{ block "main" . }}
+        {{ end }}
+        <footer>
+            <div class="cross"></div>
+            &copy; 2020 <a href="https://flatlandchurch.com">Flatland Church</a>
+        </footer>
+    </body>
+</html>

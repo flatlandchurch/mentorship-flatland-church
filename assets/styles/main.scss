@@ -1,0 +1,74 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+}
+
+article {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 640px;
+  box-sizing: border-box;
+  padding: 24px 24px 48px;
+  line-height: 1.5;
+
+  header {
+    margin-bottom: 24px;
+  }
+
+  h2 {
+    margin: 56px 0 12px;
+    font-size: 22px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+
+  .lesson {
+    font-weight: 700;
+    color: #d40005;
+  }
+}
+
+.cross {
+  display: block;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  margin: 48px auto 12px;
+
+  &::before, &::after {
+    background: #d40005;
+    width: 100%;
+    height: 2px;
+    display: block;
+    content: "";
+    top: 6px;
+    position: absolute;
+  }
+
+  &::after {
+    transform: rotate(90deg);
+  }
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 24px;
+  box-sizing: border-box;
+  font-size: 12px;
+
+  a {
+    color: #d40005;
+    font-weight: bold;
+    text-decoration: none;
+  }
+}
