@@ -15,6 +15,8 @@
                 {{ if eq $key "videos" }}{{ $icon = "fab fa-youtube" }}{{ end }}
                 {{ if eq $key "books" }}{{ $icon = "fas fa-book" }}{{ end }}
                 {{ if eq $key "podcasts" }}{{ $icon = "fas fa-microphone-alt" }}{{ end }}
+                {{ if eq $key "creeds" }}{{ $icon = "fas fa-scroll" }}{{ end }}
+                {{ if eq $key "articles" }}{{ $icon = "fas fa-paperclip" }}{{ end }}
                 <li><i class="{{ $icon }}"></i> <div><a href="{{ .uri }}">{{ .title }}</a>{{ with .annotation }} <span>{{ . }}</span>{{ end }}</div></li>
                 {{ end }}
             {{ end }}
