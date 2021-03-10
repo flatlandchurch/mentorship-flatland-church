@@ -2,7 +2,7 @@
 order: 2
 lesson: "Lesson 3"
 title: "Crucifixion and Resurrection"
-image: "/jesus-christ.jpg"
+image: "/crucifixion.jpg"
 resources:
     videos:
         - title: "BibleProject - The Crucifixion of Jesus"
