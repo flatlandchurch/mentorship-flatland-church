@@ -1,0 +1,11 @@
+{
+  "name": "mentorship-flatland-church",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/flatlandchurch/mentorship-flatland-church",
+  "author": "Matt McElwee <mmcelwee@dmsi.com>",
+  "license": "MIT",
+  "scripts": {
+    "clean": "node scripts/latexCleaner.js"
+  }
+}
