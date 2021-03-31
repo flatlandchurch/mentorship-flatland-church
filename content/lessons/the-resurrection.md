@@ -3,6 +3,21 @@ order: 5
 lesson: "Lesson 6"
 title: "The Resurrection"
 image: "/the-resurrection.jpg"
+resources:
+    videos:
+        - title: "BibleProject - Heaven and Earth"
+          uri: "https://www.youtube.com/watch?v=Zy2AQlK6C5k"
+    podcasts:
+        - title: "Heaven and Earth Series"
+          annotation: "from BibleProject Podcast"
+          uri: "https://bibleproject.com/podcast/series/heaven-earth-series"
+    books:
+        - title: "Surprised by Hope"
+          annotation: "by N. T. Wright"
+          uri: "https://www.amazon.com/Surprised-Hope-Rethinking-Resurrection-Mission/dp/0062089978"
+        - title: "On the Soul and the Resurrection"
+          annotation: "by St. Gregory of Nyssa"
+          uri: "https://www.amazon.com/Soul-Resurrection-St-Gregory-Nyssa/dp/0881411205"
 ---
 
 Begin this lesson by first reading the Apostle's Creed. See Resources section for text.
