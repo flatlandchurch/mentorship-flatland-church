@@ -29,11 +29,7 @@ No. We believe that there is only one God and one Lord. Yet God exists eternally
 
 ([Deuteronomy 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy%206:4&version=NIV))
 
-## Can we say that the Trinity is just God revealed in different forms?
-
-No. When speaking of the Trinity, we do not wish to confound the Persons – meaning to make them into one person with no distinction – nor to divide the substance – to say that there are three wholly separate beings. In saying that the Trinity is God revealed in different forms, we would in fact be saying that there is only one Person, thereby confounding the persons and eliminating distinctions.
-
-\questions{Does the Trinity, or any Person of the Trinity, have a beginning or end?}
+## Does the Trinity, or any Person of the Trinity, have a beginning or end?
 
 No. All persons of the Trinity are co-equal and co-eternal, meaning there was never a time when any Person of the Trinity did not exist.
 
@@ -49,13 +45,13 @@ God, in Trinity, always operates in unity throughout time. While Scripture in ma
 
 ([Genesis 11:7](https://www.biblegateway.com/passage/?search=Genesis%2011:7&version=NIV); [Psalm 8](https://www.biblegateway.com/passage/?search=Psalm%208&version=NIV); [John 1:1-2](https://www.biblegateway.com/passage/?search=John%201:1-2&version=NIV); [1 John 5:8](https://www.biblegateway.com/passage/?search=1%20John%205:8&version=NIV))
 
-## May we pray to individual or all Persons of the Trinity?
+## How ought we to pray??
 
 Yes. We worship God in Trinity and Trinity in Unity, therefore we may direct our prayer and worship to each and/or all Persons of the Trinity.
 
 ([2 Corinthians 13:14](https://www.biblegateway.com/passage/?search=2%20Corinthians%2013:14&version=NIV))
 
-## What does the Trinity teach us about God?
+## What does the Trinity reveal about God?
 
 In the doctrine of the Trinity I learn deeply the nature of the God we worship. In Scripture, we find blessings in the names of each person of the Trinity, and we find the Trinitarian formula as the proper means by which people are baptized. But more than blessings, prayers, and baptism, the Trinity introduces the idea of a divine community of love, of which we as humans are images. We learn how to intimately love and be loved in the way that God in Trinity loves.
 
