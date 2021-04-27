@@ -1,6 +1,6 @@
 ---
-order: 6
-lesson: "Lesson 7"
+order: 7
+lesson: "Lesson 8"
 title: "Baptism and Communion"
 image: "/baptism-communion.jpg"
 resources:
