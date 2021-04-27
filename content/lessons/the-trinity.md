@@ -6,17 +6,19 @@ image: "/the-trinity.jpeg"
 resources:
     videos:
         - title: "BibleProject - God"
-          url: "https://www.youtube.com/watch?v=eAvYmE2YYIU"
+          uri: "https://www.youtube.com/watch?v=eAvYmE2YYIU"
+        - title: "St Patrick's Bad Analogies"
+          uri: "https://www.youtube.com/watch?v=KQLfgaUoQCw"
     books:
         - title: "Making Sense of the Trinity"
-          url: "https://www.amazon.com/Making-Sense-Trinity-Crucial-Questions/dp/080106287X"
+          uri: "https://www.amazon.com/Making-Sense-Trinity-Crucial-Questions/dp/080106287X"
           annotation: "by Millard Erickson"
         - title: "Trinity Without Hierarchy"
-          url: "https://www.amazon.com/Trinity-Without-Hierarchy-Reclaiming-Evangelical/dp/0825444624"
+          uri: "https://www.amazon.com/Trinity-Without-Hierarchy-Reclaiming-Evangelical/dp/0825444624"
           annotation: "edited by Michael Bird and Scott Harrower (advanced)"
-    articles:
+    creeds:
         - title: "The Athanasian Creed"
-          url: "https://www.crcna.org/welcome/beliefs/creeds/athanasian-creed"
+          uri: "https://www.crcna.org/welcome/beliefs/creeds/athanasian-creed"
 ---
 
 ## What do you mean when you say Trinity?
