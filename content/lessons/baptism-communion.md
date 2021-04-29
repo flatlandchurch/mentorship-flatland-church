@@ -46,7 +46,7 @@ Two things are required of me: repentance and faith. I repent of my sin, which m
 
 ## Should you ever become rebaptized?
 
-All Christians who have been properly baptized in the name of the Father, the Son, and the Holy Spirit should not seek rebaptism. Rather I should remember the promises made by God in my baptism and seek to live a Christ-centered life.
+All Christians who have been properly baptized as adults in the name of the Father, the Son, and the Holy Spirit should not seek rebaptism. Rather I should remember the promises made by God in my baptism and seek to live a Christ-centered life.
 
 ## What is the outward and visible sign of communion?
 
