@@ -7,7 +7,7 @@ title: "9-Week Bible Reading Plan"
 | 1 | Genesis 1-11 | 1-5 |
 | 2 | Genesis 12-25 | 6-8 |
 | 3 | Genesis 26-36 | 9-11 |
-| 4 | Genesis 37-15 | 12-14 |
+| 4 | Genesis 37-50 | 12-14 |
 | 5 | Exodus 1-10 | 15-17 |
 | 6 | Exodus 11-20 | 18 |
 | 7 | Exodus 20-29 | 19-21 |
