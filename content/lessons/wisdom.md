@@ -2,7 +2,7 @@
 order: 16
 lesson: "Lesson 15"
 title: "The Wisdom Books"
-image: "/wisdom.jpeg"
+image: "/wisdom.jpg"
 ---
 
 ## What is wisdom?

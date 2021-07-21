@@ -2,7 +2,7 @@
 order: 13
 lesson: "Lesson 12"
 title: "The Histories"
-image: "/histories.jpeg"
+image: "/histories.jpg"
 ---
 
 ## Why do you call them the Histories?

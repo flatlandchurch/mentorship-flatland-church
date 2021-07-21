@@ -2,7 +2,7 @@
 order: 18
 lesson: "Lesson 17"
 title: "The Gospel"
-image: "/gospel.jpeg"
+image: "/gospel.jpg"
 ---
 
 ## What are the books contained in the Gospels?

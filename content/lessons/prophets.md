@@ -2,7 +2,7 @@
 order: 14
 lesson: "Lesson 13"
 title: "Isaiah, Jeremiah, Ezekiel"
-image: "/ezekiel.jpeg"
+image: "/ezekiel.jpg"
 ---
 
 ## What is a prophet?

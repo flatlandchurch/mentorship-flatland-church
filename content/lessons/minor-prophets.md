@@ -2,7 +2,7 @@
 order: 15
 lesson: "Lesson 14"
 title: "Minor Prophets"
-image: "/prophets.jpeg"
+image: "/prophets.jpg"
 ---
 
 ## Why do you call them the Minor Prophets?

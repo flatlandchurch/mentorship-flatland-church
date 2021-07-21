@@ -2,7 +2,7 @@
 order: 12
 lesson: "Lesson 11"
 title: "The Torah (Remaining)"
-image: "/the-torah.jpeg"
+image: "/the-torah.jpg"
 ---
 
 ## Why do you call it the Torah?
