@@ -1,5 +1,5 @@
 ---
-order: 14
+order: 12
 lesson: "Lesson 13"
 title: "Isaiah, Jeremiah, Ezekiel"
 image: "/ezekiel.jpg"

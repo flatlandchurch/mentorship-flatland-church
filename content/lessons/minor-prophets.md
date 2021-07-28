@@ -1,5 +1,5 @@
 ---
-order: 15
+order: 13
 lesson: "Lesson 14"
 title: "Minor Prophets"
 image: "/prophets.jpg"

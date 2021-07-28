@@ -1,5 +1,5 @@
 ---
-order: 18
+order: 16
 lesson: "Lesson 17"
 title: "The Gospel"
 image: "/gospel.jpg"

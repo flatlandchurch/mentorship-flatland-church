@@ -1,5 +1,5 @@
 ---
-order: 16
+order: 14
 lesson: "Lesson 15"
 title: "The Wisdom Books"
 image: "/wisdom.jpg"

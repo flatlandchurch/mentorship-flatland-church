@@ -1,5 +1,5 @@
 ---
-order: 12
+order: 10
 lesson: "Lesson 11"
 title: "The Torah (Remaining)"
 image: "/the-torah.jpg"

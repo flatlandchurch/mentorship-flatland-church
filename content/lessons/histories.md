@@ -1,5 +1,5 @@
 ---
-order: 13
+order: 11
 lesson: "Lesson 12"
 title: "The Histories"
 image: "/histories.jpg"
