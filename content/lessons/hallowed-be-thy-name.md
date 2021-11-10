@@ -5,7 +5,7 @@ title: "Hallowed be thy name"
 image: "/name.jpg"
 resources:
     books:
-        - name: "Bearing God's Name: Why Sinai Still Matters"
+        - title: "Bearing God's Name: Why Sinai Still Matters"
           uri: "https://www.amazon.com/Bearing-Gods-Name-Sinai-Matters/dp/0830852697"
           annotation: "by Carmen Joy Imes"
 ---
