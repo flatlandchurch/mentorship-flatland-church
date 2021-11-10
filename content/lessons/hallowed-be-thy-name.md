@@ -1,5 +1,5 @@
 ---
-order: 22
+order: 20
 lesson: "Lesson 21"
 title: "Hallowed be thy name"
 image: "/name.jpg"

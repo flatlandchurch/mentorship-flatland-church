@@ -1,5 +1,5 @@
 ---
-order: 21
+order: 19
 lesson: "Lesson 20"
 title: "Our Father"
 image: "/our-father.jpg"
